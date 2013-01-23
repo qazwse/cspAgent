@@ -1,7 +1,4 @@
-Curtis Rasmussen
-0671426
-
-CIS 4450
+CIS 4450 - Automated Reasoning
 Assignment 1 - CspAgent
 
 Compile the program with:
@@ -11,3 +8,5 @@ Compile the program with:
 To run the program use the command:
 
 	java CspAgent [cspfile]
+
+Includes 3 example cspfiles. They're the files with the .bcn extension.
