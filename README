@@ -1,0 +1,13 @@
+Curtis Rasmussen
+0671426
+
+CIS 4450
+Assignment 1 - CspAgent
+
+Compile the program with:
+
+	javac *.java
+
+To run the program use the command:
+
+	java CspAgent [cspfile]
